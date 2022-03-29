@@ -21,7 +21,7 @@ E selecionar a cor, tamanho e quantidade
 E a quantidade for menor ou igual a 10
 Então o sistema deve inserir o produto no carrinho
 
-Cenário: Permitir 10 produtos por venda
+Cenário: Inserção de itens além do permitido
 Quando eu escolher um produto
 E selecionar a cor, tamanho e quantidade
 E a quantidade for maior que 10
